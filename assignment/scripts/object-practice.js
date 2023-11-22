@@ -59,3 +59,7 @@ console.log('Now I have', me.shoeCount, 'pairs of shoes!');
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+
+me.favoriteColor = 'purple';
+console.log('me object after addition of favorite color property:', me);
+console.log('To be specific, I have added a favorite color property with a value of:', me.favoriteColor);
